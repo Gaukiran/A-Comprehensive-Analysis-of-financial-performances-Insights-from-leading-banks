@@ -1,3 +1,3 @@
 # A-Comprehensive-Analysis-of-financial-performances-Insights-from-leading-banks
-Dashboard tableau link c:\Users\ELCOT\Documents\leading banks dashboard.twb
-story tableau link c:\Users\ELCOT\Documents\story.twb
+Dashboard tableau public link : https://public.tableau.com/app/profile/gayathri.n1830/viz/DASHBOARDBANK/Dashboard1?publish=yes
+Story tableau link : https://public.tableau.com/app/profile/gayathri.n1830/viz/STORYBANK/Story1?publish=yes
